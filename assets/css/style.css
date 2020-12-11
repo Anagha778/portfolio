@@ -290,6 +290,7 @@
   
     header nav ul li a {
       font-size: 18px;
+      font-weight: bold;
     }
 
     .section-title {
@@ -317,8 +318,9 @@
   }
     
       .contact-info ul li a {
-        font-size: 16px;
+        font-size: 18px;
         line-height: 2;  
+        font-weight: bold;
         }
 
       .vl-border3{
