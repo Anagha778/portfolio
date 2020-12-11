@@ -76,8 +76,8 @@
     top: 150px;
     left: 30px;
     border: 3px var(--primary-color) solid;
-    height:150px;
-    width: 150px;
+    height:220px;
+    width: 220px;
   }
   
   .hero h2 {
@@ -176,7 +176,7 @@
    justify-content: flex-start;
   }
   
-  .gallery__img h3 {
+   h3 {
     position: absolute;
     z-index: 1;
     color: var(--primary-color);
@@ -205,6 +205,7 @@
   grid-column-end: 3;
   grid-row-start: 2;
   grid-row-end: 4;
+  position: relative;
   
   }
   
