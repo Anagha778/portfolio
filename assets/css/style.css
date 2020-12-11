@@ -289,7 +289,7 @@
     }
   
     header nav ul li a {
-      font-size: 12px;
+      font-size: 18px;
     }
 
     .section-title {
@@ -298,14 +298,14 @@
     }
 
     .vl-border1 {      
-      height: 250px;     
+      height: 300px;     
     }
 
     .container{
       flex:10;
     }
     .vl-border2 {      
-      height: 250px;   
+      height: 300px;   
       margin-left: 5px;  
     }
 
