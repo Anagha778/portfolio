@@ -161,7 +161,7 @@
   .gallery{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: repeat(5, 8vw);
+    grid-template-rows: repeat(5, 10vw);
     grid-gap: 15px;
     margin-left: 30px;     
     
