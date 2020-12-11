@@ -322,5 +322,9 @@ figcaption{
       .image2 {
         top:200px;
       }
+      
+      figcaption{
+        margin-top: -30%;
+      }
 
   }
