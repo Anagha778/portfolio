@@ -265,4 +265,68 @@
       border-bottom: 3px solid;
       padding-bottom: 2px;
     }
+
     
+ /*Code for media query*/
+
+  @media screen and (max-width: 980px) {
+    header {
+      padding-bottom: 10px;
+      justify-content: center;
+    }
+  
+    header h1 {
+      width: 100%;
+      text-align: center;
+    }
+  
+    header nav ul {
+      margin-top: 20px;
+      width: 100%;
+      justify-content: center;
+      flex-direction: row;
+      line-height: 1.5;
+    }
+  
+    header nav ul li a {
+      font-size: 12px;
+    }
+
+    .section-title {
+      width: 100%;
+      text-align: left;
+    }
+
+    .vl-border1 {      
+      height: 250px;     
+    }
+
+    .container{
+      flex:10;
+    }
+    .vl-border2 {      
+      height: 250px;   
+      margin-left: 5px;  
+    }
+
+  
+  .contact-info ul {     
+      width: 100%;
+      justify-content: left;
+      flex-direction: column;      
+  }
+    
+      .contact-info ul li a {
+        font-size: 16px;
+        line-height: 2;  
+        }
+
+      .vl-border3{
+        height: 160px;
+      }
+
+      .image2 {
+        top:200px;
+      }
+
+  }
