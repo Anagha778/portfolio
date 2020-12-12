@@ -291,12 +291,17 @@ figcaption{
     .hero{
       background-size: cover;
     }
+
+    .image2{
+      height: 100px;
+      width: 100px;
+    }
     .hero h2 {      
       font-size: 10px;
       margin-top: 350px;
       }
 
-      .step-text p{
+    .step-text p{
         width: 85%;
       }
 
@@ -310,10 +315,12 @@ figcaption{
       height: 350px;     
     }
 
-    .vl-border2{
-    height: 300px; 
-    
+  .vl-border2{
+    height: 280px;     
   }  
+    .container{
+      width: 100%;
+    }
     .contact-info ul {     
       width: 100%;
       justify-content: left;
@@ -337,7 +344,7 @@ figcaption{
     figcaption{
         position: absolute;
         margin-left: 5px;
-        margin-top: -35%;
+        margin-top: -38%;
         font-size: 5px;
         font-style: italic;
         font-weight: bold;
